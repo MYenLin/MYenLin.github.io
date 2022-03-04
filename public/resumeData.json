@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Mercedes Y Thompson",
+    "occupation": "Software Developer and Artist",
+    "description": "",
+    "image": "",
+    "bio": "'Hi! I have a wide array of skills and interests, having an education in both Computer Science and Animation. If what you have is new to me I tend to be a quick study. I love playing the violin and working on personal projects, or just playing Dungeons and Dragons with my friends. Feel free to get in touch, I'm happy to hear from you!'",
+    "contactmessage": "I'm happy to hear from you and ,answer any questions.",
+    "email": "MYenLinT@gmail.com",
+    "phone": "317-374-1311",
+    "address": {
+      "street": "541 Shortleaf Drive",
+      "city": "Avon",
+      "state": "Indiana",
+      "zip": "46123"
+    },
+    "website": "https://github.com/MYthompson",
+    "resumedownload": "https://github.com/MYenLin",
+    "social": [
+
+      {
+        "name": "github",
+        "url": "https://github.com/MYenLin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Ball State University",
+        "degree": "BS in Computer Science",
+        "graduated": "May 2022",
+        "description": "I experienced a curriculum focused on common business and development practices, as well as adaptability in different development environments, including group agile settings and client interationc."
+      },
+      {
+        "school": "",
+        "degree": "BFA in Art:Animation",
+        "graduated": "May 2022",
+        "description": "I had a well rounded animaation experience, dabbling in everything from 2D, 3D, and pre-production culminating in class-directed short films. The program also included a focus on traditional art, the painting above is one of my pieces."
+      }
+    ],
+    "work": [
+      {
+        "company": "High Alpha - Docket",
+        "title": "Software Development Intern",
+        "years": "June 2020 - July 2020",
+        "description": "Collaborated with Senior developer over the course of a short summer internship."
+      },
+      {
+        "company": "Individual Freelance Illustrator",
+        "title": "Freelance",
+        "years": "July 2020 - Present",
+        "description": "Work typically were made for websites, most notably a mental health blog site in which my illustrations were companions to articles."
+      }
+    ],
+    "skillsProficient": [
+      {
+        "name": "Javascript (React, Vue)",
+        "level": ""
+      },
+      {
+        "name": "Java",
+        "level": ""
+      },
+      {
+        "name": "Python",
+        "level": ""
+      },
+      {
+        "name": "SQL",
+        "level": ""
+      }
+    ],
+    "skillsFamiliar": [
+      {
+        "name": "HTML5/CSS",
+        "level": ""
+      },
+      {
+        "name": "Angular",
+        "level": ""
+      },
+      {
+        "name": "PHP",
+        "level": ""
+      },
+      {
+        "name": "C++",
+        "level": ""
+      },
+      {
+        "name": "C#",
+        "level": ""
+      },
+      {
+        "name": ".Net 3.1",
+        "level": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Secure chat/ Ticket web app (in progress)",
+        "category": "Main contribution in frontend and modularity, as well as dataflow.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Multi-interface cooperative game (in-Progress",
+        "category": "So far I was part of creating the system design and led the first iteration of the design guide",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": ".",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
